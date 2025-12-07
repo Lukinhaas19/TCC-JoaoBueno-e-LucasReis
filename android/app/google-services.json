@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494198016954",
+    "project_id": "superpromo-2da3d",
+    "storage_bucket": "superpromo-2da3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494198016954:android:343f3d5a9ced2daf4eab83",
+        "android_client_info": {
+          "package_name": "com.example.mercado_promocoes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0wTcwkFt2fC6WCZib8B3gLkBPhLO10k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
